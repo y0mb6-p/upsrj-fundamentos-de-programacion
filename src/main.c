@@ -9,4 +9,5 @@ int main()
     float vol=s*s*s;
     printf("The area of the square is = %.2f",area);
     printf("\nThe volume of the cube is = %.2f\n",vol);
+    return 0;
 }
